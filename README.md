@@ -5,7 +5,8 @@
 🎯 Objective
 To leverage my expertise in software development, data analytics, and emerging technologies like AI and blockchain to build innovative, scalable solutions that drive efficiency and create real-world impact across diverse industries.
 
-🚀 Currently leading the development of Agrobond – an Assured Contract Farming System aimed at revolutionizing agricultural market access.
+🚀 Currently leading the development of Zwoop – an innovative platform for seamless car rentals, driver hiring, and ride bookings.
+🌾 Also working on Agrobond – an Assured Contract Farming System aimed at revolutionizing agricultural market access.<br>
 
 💻 Proficient in:
 
@@ -13,17 +14,18 @@ Databases: MySQL, MongoDB, Firebase<br>
 Data Analytics: Tableau, Web Scraping<br>
 Full-Stack Development: JavaScript, React, Python<br>
 Integrating AI & ML into real-world applications<br>
+
 🔍 Currently learning:
 
-AI and Machine Learning
-Blockchain Technologies
+AI and Machine Learning<br>
+Blockchain Technologies<br>
+
 📚 Recent Projects:
+Savory – Restaurant reservation system<br>
+Movie Explorer – A web app to explore and track movies<br>
+FlashDime – A cryptocurrency tracker for real-time price updates<br>
 
-Savory – Restaurant reservation system
-Movie Explorer – A web app to explore and track movies
-FlashDime – A cryptocurrency tracker for real-time price updates
 ✨ Passionate about delivering intuitive, scalable, and dynamic user experiences. Let’s connect!
-
 📫 Reach me at vyomthaker21@gmail.com
 
 ## 🌐Socials
