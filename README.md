@@ -1,31 +1,16 @@
-# 💫Who I Am:<br>
-👋 Hello! I'm Vyom Thaker<br>
-💼 Software & Web Developer | AI & Data Science Enthusiast
+[![Masterhead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)](https://in.pinterest.com/pin/913597474414395495/)
+# 💫 **A Little About Me:**
+👋 Hi, I’m **Vyom Thaker**, a dedicated **Software & Web Developer** with a keen interest in **AI** and **Data Science**. My goal is to craft innovative, data-driven solutions that make a tangible impact across industries, combining cutting-edge technologies like **AI** and **blockchain** with practical software development skills.
 
-🎯 Objective<br>
-To leverage my expertise in software development, data analytics, and emerging technologies like AI and blockchain to build innovative, scalable solutions that drive efficiency and create real-world impact across diverse industries.
+🎯 **Objective:**  
+  Leverage my expertise in **software development**, **data analytics**, **AI**, and **blockchain** to create scalable, real-world solutions that drive efficiency and innovation.
 
-🚀 Currently leading the development of Zwoop – an innovative platform for seamless car rentals, driver hiring, and ride bookings.
-🌾 Also working on Agrobond – an Assured Contract Farming System aimed at revolutionizing agricultural market access.<br>
+- 🔭 I’m currently working on **Zwoop** and **Agrobond**  
+- 🌱 I’m currently learning **AI/ML** and **Blockchain**  
+- 💼 Proficient in **MySQL, MongoDB, Firebase, React, Python**  
+- 📚 Recent projects: **Savory, Movie Explorer, FlashDime**
 
-💻 Proficient in:
-
-Databases: MySQL, MongoDB, Firebase<br>
-Data Analytics: Tableau, Web Scraping<br>
-Full-Stack Development: JavaScript, React, Python<br>
-Integrating AI & ML into real-world applications<br>
-
-🔍 Currently learning:
-
-AI and Machine Learning<br>
-Blockchain Technologies<br>
-
-📚 Recent Projects:<br>
-Savory – Restaurant reservation system<br>
-Movie Explorer – A web app to explore and track movies<br>
-FlashDime – A cryptocurrency tracker for real-time price updates<br>
-
-✨ Passionate about delivering intuitive, scalable, and dynamic user experiences. Let’s connect!
+✨ Passionate about delivering intuitive, scalable, and dynamic user experiences. Let’s connect!  
 📫 Reach me at vyomthaker21@gmail.com
 
 ## 🌐Socials
