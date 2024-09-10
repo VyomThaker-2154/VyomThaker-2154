@@ -9,10 +9,10 @@ To leverage my expertise in software development, data analytics, and emerging t
 
 💻 Proficient in:
 
-Databases: MySQL, MongoDB, Firebase
-Data Analytics: Tableau, Web Scraping
-Full-Stack Development: JavaScript, React, Python
-Integrating AI & ML into real-world applications
+Databases: MySQL, MongoDB, Firebase<br>
+Data Analytics: Tableau, Web Scraping<br>
+Full-Stack Development: JavaScript, React, Python<br>
+Integrating AI & ML into real-world applications<br>
 🔍 Currently learning:
 
 AI and Machine Learning
