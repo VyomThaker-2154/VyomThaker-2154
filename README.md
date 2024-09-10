@@ -2,7 +2,7 @@
 👋 Hello! I'm Vyom Thaker
 💼 Software & Web Developer | AI & Data Science Enthusiast
 
-🎯 Objective
+🎯 Objective<br>
 To leverage my expertise in software development, data analytics, and emerging technologies like AI and blockchain to build innovative, scalable solutions that drive efficiency and create real-world impact across diverse industries.
 
 🚀 Currently leading the development of Zwoop – an innovative platform for seamless car rentals, driver hiring, and ride bookings.
@@ -20,7 +20,7 @@ Integrating AI & ML into real-world applications<br>
 AI and Machine Learning<br>
 Blockchain Technologies<br>
 
-📚 Recent Projects:
+📚 Recent Projects:<br>
 Savory – Restaurant reservation system<br>
 Movie Explorer – A web app to explore and track movies<br>
 FlashDime – A cryptocurrency tracker for real-time price updates<br>
